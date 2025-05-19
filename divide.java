@@ -1,4 +1,4 @@
-public class Divide {
+public class divide {
     public static void main(String[] args) {
         if (args.length < 2) {
             System.out.println("Usage: java Divide <a> <b>");
